@@ -8,11 +8,11 @@ I'm also curious about game development and am interested in exploring this exci
 
 Outside of work, I enjoy learning about emerging technologies and staying up to date with the latest developments in the industry. I'm also a dedicated team player who enjoys collaborating with others to achieve common goals.
 
-- Stay updated with my journey on [LinkedIn](linkedin.com/in/hadir-kad).
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/hadir-kad/).
 - Explore [my blog](https://medium.com/@hadirsoftware) where I share insights and learnings.
 
 ### 📫 How to reach me:
-For a quick response, DM me on [LinkedIn](linkedin.com/in/hadir-kad).
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/hadir-kad/).
 For professional inquiries, reach out via email at <hadirsoftware@gmail.com>.
 <!--
 **hadirKad/hadirKad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
